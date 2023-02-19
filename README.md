@@ -29,4 +29,6 @@ This code was compiled on Turbo C++. The code may run differently in different e
 
 ## Comments have been added almost everywhere
 
+## Article about this project was published in ECRIRE by BIT Sindri, India. Give it a read at : https://ecrire.ietebits.com/posts/52/
+
 
